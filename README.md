@@ -40,9 +40,10 @@ This is a Contact Manager web application built with the MERN stack (MongoDB, Ex
     cd client-app
     npm start
 
-5. Contributions:
+## Contributions
 
-    Contributions are welcome! Fork the repo and submit a pull request.
+Contributions are welcome. Fork the repo and submit a pull request.
 
-6. License:
-    This project is under the MIT license.
+## License
+
+This project is under the MIT license.
