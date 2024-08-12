@@ -9,7 +9,7 @@ This is a Contact Manager web application built with the MERN stack (MongoDB, Ex
 - Responsive UI design with Tailwind CSS.
 - TypeScript for type-safe development.
 
-## Prerequisites
+## Prerequsite Installations
 
 - Node.js installed on your local environment.
 - MongoDB server running locally or accessible via a remote connection.
@@ -27,18 +27,16 @@ This is a Contact Manager web application built with the MERN stack (MongoDB, Ex
 
 3. Install dependencies for the client and server:
     
-    cd client-app
+    cd client-app/contact-manager-app
     npm install
 
-    cd ../server-app
+    cd ../../server-app
     npm install
 
 4. Usage:
-    cd server-app 
-    npm start
-    
-    cd client-app
-    npm start
+   Navigate to root project directory:
+      Build: npm run build
+      Start: npm run dev
 
 ## Contributions
 
