@@ -16,7 +16,7 @@ const EditContact: React.FunctionComponent<IEditContactProps> = (props) => {
 
     const { id, isOpen, onClose } = props;
 
-    const handleSubmit = async(e:React.FormEvent<HTMLFormElement>) => {
+    const handleSubmit = async(_e:React.FormEvent<HTMLFormElement>) => {
         try {
             await axios.put(`${serverUrl}/contacts/${id}`, {
                 name: name,

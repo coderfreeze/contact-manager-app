@@ -1,0 +1,13 @@
+{
+    "name": "contact-manager-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+        "start:frontend": "cd client-app/contact-manager-app && npm run dev",
+        "start:backend": "cd server-app && npm run dev",
+        "build": "cd client-app/contact-manager-app && npm run build && cd ../../server-app && npm run build"
+    },
+    "devDependencies": {
+        "concurrently": "^7.6.0"
+    }
+}
