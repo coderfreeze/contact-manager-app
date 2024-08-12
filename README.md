@@ -34,8 +34,11 @@ This is a Contact Manager web application built with the MERN stack (MongoDB, Ex
     npm install
 
 4. Usage:
+
    Navigate to root project directory:
+   
       Build: npm run build
+   
       Start: npm run dev
 
 ## Contributions
