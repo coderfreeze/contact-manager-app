@@ -19,7 +19,7 @@ This is a Contact Manager web application built with the MERN stack (MongoDB, Ex
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/contact-manager-app.git
+   git clone https://github.com/coderfreeze/contact-manager-app.git
 
 2. Navigate to the project directory: 
 
