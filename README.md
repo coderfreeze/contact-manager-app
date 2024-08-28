@@ -45,6 +45,5 @@ This is a Contact Manager web application built with the MERN stack (MongoDB, Ex
 
 Contributions are welcome. Fork the repo and submit a pull request.
 
-## License
-
-This project is under the MIT license.
+## In Development
+- **Login Features**: Currently working on implementing JSON web tokens so that users can login securely and each user can manage their own contacts independently. This ensures that many users can run or try out the application. 
